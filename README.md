@@ -67,14 +67,18 @@ inside the root directory of your package.
 
 Environmentalist will automatically analyse your package and all of its dependencies and return a table of all the environmental variables required and available from any environmentalist enabled package inside the directory chain.
 
+## Issues and Pull Requests
+
+GitHub Issues is our issue tracker should any bugs or feature requests arise. 
+
+Pull Requests are also welcomed, but try to keep the code clean and well commented.
+
 ## License
 
 MIT License, use it, love it, fork it, sell it for ingots, whatever floats your boat.
 
 Just don’t be evil. Having said that, if you find a way to make environmental variables evil I am impressed. But still don’t do it.
 
-## Issues and Pull Requests
+## Versioning
 
-GitHub Issues is our issue tracker should any bugs or feature requests arise. 
-
-Pull Requests are also welcomed, but try to keep the code clean and well commented.
+We use Semantic Versioning. Yay for not breaking things!
