@@ -1,0 +1,19 @@
+{
+    "name": "environmentalist",
+    "version": "1.0.0",
+    "description": "A command line tool to provide repository safe overview of environmental variables used in packages and their dependencies.",
+    "author": "Alexander Christie <alex@briefly.io>",
+    "repository": {
+
+    },
+    "license": "MIT",
+    "preferGlobal": true,
+    "bin": {
+        "environmentalist": "lib/index.js"
+    },
+    "dependencies": {
+        "cli-table": "^0.3.1",
+        "glob": "^5.0.10",
+        "underscore": "^1.8.3"
+    }
+}
